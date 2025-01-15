@@ -1,7 +1,6 @@
 
 # Cloud Spotlight
 
-A brief description of what this project does and who it's for
 Spotlight created by Cloud© for comfortable file searching on Windows.
 How to use: Type ">" for use app commands. 
 
