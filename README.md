@@ -1,0 +1,2 @@
+# CloudSpotlight
+installer
